@@ -1,2 +1,7 @@
 # React_Project_Template
-This will be use for instantly file setup of React template
+<h2>How to use the template?</h2>
+<ul>
+  <li>Open terminal where you want to clone the template</li>
+  <li>Copy this command <br>git clone https://github.com/anisul-Islam/react-project-template.git</li>
+  <li>Done :) </li>
+</ul>
